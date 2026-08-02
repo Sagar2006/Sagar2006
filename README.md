@@ -1,29 +1,5 @@
 <div align="center">
 
-  <p align="center">
-    <svg width="360" height="110" viewBox="0 0 360 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated bee trail">
-      <rect x="8" y="8" width="344" height="94" rx="22" fill="#020617" stroke="#38BDF8" stroke-opacity="0.35"/>
-      <path d="M30 70 C90 24, 160 24, 220 70 S320 116, 332 70" stroke="#38BDF8" stroke-width="2.5" fill="none" stroke-dasharray="8 8">
-        <animate attributeName="stroke-dashoffset" values="0;16" dur="1.2s" repeatCount="indefinite"/>
-      </path>
-      <g>
-        <ellipse cx="0" cy="0" rx="18" ry="12" fill="#FCD34D"/>
-        <rect x="-10" y="-7" width="16" height="8" rx="4" fill="#111827"/>
-        <rect x="6" y="-7" width="16" height="8" rx="4" fill="#111827"/>
-        <circle cx="-6" cy="0" r="6" fill="#F8FAFC"/>
-        <circle cx="-6" cy="0" r="3" fill="#93C5FD"/>
-        <circle cx="16" cy="0" r="6" fill="#F8FAFC"/>
-        <circle cx="16" cy="0" r="3" fill="#93C5FD"/>
-        <circle cx="-1" cy="0" r="3" fill="#111827"/>
-        <circle cx="11" cy="0" r="3" fill="#111827"/>
-        <path d="M-10 -16 L-4 -28 L1 -16" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
-        <path d="M8 -16 L14 -28 L20 -16" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
-        <animateMotion dur="5s" repeatCount="indefinite" path="M30 70 C90 24, 160 24, 220 70 S320 116, 332 70"/>
-        <animateTransform attributeName="transform" type="rotate" values="-8;8;-8" dur="1.4s" repeatCount="indefinite" additive="sum"/>
-      </g>
-    </svg>
-  </p>
-
   <!-- Header Banner / Title -->
   <h1>Hi there, I'm <a href="https://sagar2006.github.io/Portfolio/">Sagar Kumar</a> 👋</h1>
   <h3>AI Systems & Full-Stack Engineer | Deep Learning Infrastructure & High-Performance Computing</h3>

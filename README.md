@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
-  <h1>Hi there, I'm <a href="https://sagar2006.github.io/Portfolio/">Sagar Kumar</a> 👋</h1>
-  <h3>AI Systems & Full-Stack Engineer | Deep Learning Infrastructure & High-Performance Computing</h3>
+  <!-- Header Title -->
+  <h1>👾 Hi there, I'm <a href="https://sagar2006.github.io/Portfolio/">Sagar Kumar</a> 👋</h1>
+  <h3>⚡ AI Systems & Full-Stack Engineer | Deep Learning Infrastructure & High-Performance Computing</h3>
 
   <p align="center">
     <a href="https://sagar2006.github.io/Portfolio/"><b>🌐 Portfolio</b></a> •
@@ -12,23 +12,28 @@
 
   <!-- Badges row -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Open%20To-Full--Time%20%7C%20Internships-success?style=for-the-badge" alt="Open To Work" />
-    <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Full%20Stack-8A2BE2?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-00FF66?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Work" />
+    <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Full%20Stack-FF007F?style=for-the-badge&logo=cpu&logoColor=white" alt="Focus" />
   </p>
 
   <br />
 
-  <!-- Animated Dynamic Typing Banner -->
+  <!-- Retro 8-Bit Pixel Animated Typing SVG -->
   <a href="https://github.com/Sagar2006">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Efficient+AI+Infrastructure+%26+Sparse+Attention;Developing+High-Performance+C%2B%2B+%26+PyTorch+Kernels;Crafting+Modern+Full-Stack+Web+Applications;Open+Source+Contributor+%40+GSSoC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=Building+Efficient+AI+Infrastructure+%26+Sparse+Attention;Developing+High-Performance+C%2B%2B+%26+PyTorch+Kernels;Crafting+Modern+Full-Stack+Web+Applications;Open+Source+Contributor+%40+GSSoC" alt="Retro 8-Bit Pixel Typing SVG" />
   </a>
 
 </div>
 
 <br />
 
----
+<!-- Pixel Art Animated Rainbow Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Line Divider" />
+</p>
+
+<br />
 
 ### 💫 About Me
 
@@ -39,7 +44,14 @@ I am a passionate **Software Engineer** specializing in **AI Systems Infrastruct
 - 🎯 **Career Goal**: Engineering high-efficiency AI model backends & scalable full-stack platforms that turn complex research into production-grade software.
 - 💬 **Ask me about**: Transformer architectures, attention density profiling, NumPy autograd engines, C++ concurrency, React/Next.js full-stack development.
 
----
+<br />
+
+<!-- Pixel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Line Divider" />
+</p>
+
+<br />
 
 ### 🛠️ Tech Stack & Toolkit
 
@@ -58,20 +70,27 @@ I am a passionate **Software Engineer** specializing in **AI Systems Infrastruct
 
 <!-- Tech Stack Badges Grid -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<br />
+
+<!-- Pixel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Line Divider" />
+</p>
+
+<br />
 
 ### 🔥 Featured Projects
 
@@ -140,30 +159,64 @@ I am a passionate **Software Engineer** specializing in **AI Systems Infrastruct
   </tr>
 </table>
 
----
+<br />
 
-### 📊 GitHub Analytics & Statistics
+<!-- Pixel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Line Divider" />
+</p>
+
+<br />
+
+### 🐍 GitHub Contribution Grid Pixel Snake Animation
+
+<div align="center">
+
+  <!-- Snake Eating Contribution Pixels -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagar2006/Sagar2006/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagar2006/Sagar2006/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Sagar2006/Sagar2006/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
+
+<br />
+
+### 📊 Retro Cyberpunk Stats & Analytics
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sagar2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sagar's GitHub Stats" />
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sagar2006&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="Sagar's GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2006&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar2006&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar2006&theme=synthwave&hide_border=true" alt="Streak Stats" />
+
+  <br /><br />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar2006&theme=synthwave&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
----
+<br />
+
+<!-- Pixel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pixel Line Divider" />
+</p>
+
+<br />
 
 ### 📬 Let's Connect!
 
@@ -172,11 +225,11 @@ I am always interested in discussing **AI Systems**, **Machine Learning Infrastr
 <div align="center">
 
   <a href="https://sagar2006.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:sagarkumar2006@outlook.com">
-    <img src="https://img.shields.io/badge/Email-sagarkumar2006%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-sagarkumar2006%40outlook.com-FF007F?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Sagar2006">
@@ -188,5 +241,5 @@ I am always interested in discussing **AI Systems**, **Machine Learning Infrastr
 <br />
 
 <div align="center">
-  <sub><i>Designed with ❤️ by Sagar Kumar • Constantly Learning & Building</i></sub>
+  <sub><i>👾 Pixelated & Retro Styled with ❤️ by Sagar Kumar • Constantly Learning & Building 🎮</i></sub>
 </div>
